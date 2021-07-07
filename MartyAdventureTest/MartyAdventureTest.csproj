@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DamianoMorandi\MartyAdventure.csproj" />
+    <ProjectReference Include="..\LibGDX\LibGDX.csproj" />
   </ItemGroup>
 
 </Project>

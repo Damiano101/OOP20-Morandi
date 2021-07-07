@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartyAdventure", "DamianoMorandi\MartyAdventure.csproj", "{BED5643B-4868-461D-8939-6642D4F38DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartyAdventureTest", "MartyAdventureTest\MartyAdventureTest.csproj", "{84ED58BC-7A2D-484F-8DEF-BC630BCB0E74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartyAdventureTest", "MartyAdventureTest\MartyAdventureTest.csproj", "{84ED58BC-7A2D-484F-8DEF-BC630BCB0E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibGDX", "LibGDX\LibGDX.csproj", "{E123D7EE-99FD-41CC-B635-088D22020B97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{84ED58BC-7A2D-484F-8DEF-BC630BCB0E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84ED58BC-7A2D-484F-8DEF-BC630BCB0E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84ED58BC-7A2D-484F-8DEF-BC630BCB0E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E123D7EE-99FD-41CC-B635-088D22020B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E123D7EE-99FD-41CC-B635-088D22020B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E123D7EE-99FD-41CC-B635-088D22020B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E123D7EE-99FD-41CC-B635-088D22020B97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
